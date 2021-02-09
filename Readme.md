@@ -1,7 +1,10 @@
-#This is Readme document
+# This is Readme document
 
-Added new files
-main.py in src and test
+# Added new files
+* src/main.py
+* test.main.py
 
-Added two more files in src
-requirements.py and app.py
+# Added Requirements.txt
+* src/requirements.txt
+
+# Adding feature 1.1_1
